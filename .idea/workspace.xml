@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c74ba8b-8eb8-4525-b1ea-b0acf8268896" name="Default Changelist" comment="update none security">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe6cf77c-5017-466f-89cc-07e84891ac66.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe6cf77c-5017-466f-89cc-07e84891ac66/storage_v2/_src_/database/MobileStore.PzVyFA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe6cf77c-5017-466f-89cc-07e84891ac66/storage_v2/_src_/database/MobileStore.PzVyFA/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe6cf77c-5017-466f-89cc-07e84891ac66/storage_v2/_src_/database/MobileStore.PzVyFA/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe6cf77c-5017-466f-89cc-07e84891ac66/storage_v2/_src_/database/MobileStore.PzVyFA/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobileshop/group8/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobileshop/group8/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/viewcart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/viewcart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/viewproduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/viewproduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/viewcart.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/viewcart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/viewproduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/viewproduct.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zqlMD3hfkmvemVfLkiOrJpKftD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="c1199d63-0add-49d5-a581-681cd48e0b7c" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/mobileshop/group8/model" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mobileshop.group8.service" />
+      <recent name="com.mobileshop.group8.repository" />
+      <recent name="com.mobileshop.group8.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\h3nzy\src\main\java\com\mobileshop\group8\model" />
+      <recent name="C:\h3nzy\src\main\resources" />
+      <recent name="C:\h3nzy\src\main\resources\templates" />
+      <recent name="C:\h3nzy\src\main\resources\static" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.mobileshop.group8.model" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\h3nzy\src\main\resources\static\Cascading Style Sheets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Group8Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="h3nzy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mobileshop.group8.Group8Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c74ba8b-8eb8-4525-b1ea-b0acf8268896" name="Default Changelist" comment="" />
+      <created>1634883448431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634883448431</updated>
+      <workItem from="1634883452713" duration="10378000" />
+      <workItem from="1634962418589" duration="4814000" />
+      <workItem from="1634998008172" duration="3438000" />
+      <workItem from="1635043678805" duration="5938000" />
+      <workItem from="1635052735751" duration="2189000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1634886411422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634886411422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Up date CartBean and Product">
+      <created>1634887643736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634887643736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update project rep and service">
+      <created>1634887777534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634887777534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update product view">
+      <created>1634888343680</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634888343680</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Replcate dto User into Member">
+      <created>1634975586078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634975586078</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update none security">
+      <created>1634976059112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634976059112</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Up date CartBean and Product" />
+    <MESSAGE value="Update project rep and service" />
+    <MESSAGE value="update product view" />
+    <MESSAGE value="Replcate dto User into Member" />
+    <MESSAGE value="update none security" />
+    <option name="LAST_COMMIT_MESSAGE" value="update none security" />
+  </component>
+</project>
